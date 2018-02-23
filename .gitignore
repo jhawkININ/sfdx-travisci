@@ -7,5 +7,7 @@ node_modules
 .idea
 .tern-project
 .settings
+.vscode
 selenium-client-jars/
 test/artifacts
+assets/server.key
